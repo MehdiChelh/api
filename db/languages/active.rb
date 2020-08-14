@@ -223,6 +223,13 @@
     run_cmd: "/usr/local/python-3.8.1/bin/python3 script.py"
   },
   {
+    id: 1000,
+    name: "Python (3.8.1) ML",
+    is_archived: false,
+    source_file: "script.py",
+    run_cmd: "/usr/local/python-3.8.1-ml/bin/python3 script.py"
+  },
+  {
     id: 72,
     name: "Ruby (2.7.0)",
     is_archived: false,
